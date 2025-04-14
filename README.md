@@ -127,7 +127,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 <br>
 
 ### 📊Estatisticas
-<p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -143,4 +143,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRiguetto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+
