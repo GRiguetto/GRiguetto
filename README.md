@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel, resido no interior de São Paulo. Possuo formação em Tecnologia da Informação pelo [Senac](https://www.sp.senac.br/) e atualmente curso Informática para Negócios na [FATEC](https://www.fatecriopreto.edu.br/) de São José do Rio Preto.
 
-Tenho grande interesse em ingressar no mercado de trabalho como Desenvolvedor Backend. A seguir, disponibilizo meu perfil do GitHub, onde compartilho meus projetos e estudos, bem como meu perfil profissional no [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-riguetto-5266b3351/) entre em contato pelo email gabrielriguetto3@gmail.com 
+Tenho grande interesse em ingressar no mercado de trabalho como Desenvolvedor Backend. A seguir, disponibilizo meu perfil do GitHub, onde compartilho meus projetos e estudos, bem como meu perfil profissional no [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-riguetto-5266b3351/) entre em contato pelo email gabrielriguetto3@gmail.com.
 
 ---
 
