@@ -6,6 +6,12 @@ Tenho grande interesse em ingressar no mercado de trabalho como Desenvolvedor Ba
 
 ---
 
+My name is Gabriel, I live in the countryside of São Paulo. I have a degree in Information Technology from [Senac](https://www.sp.senac.br/) and I’m currently studying Business Information Technology at [FATEC](https://www.fatecriopreto.edu.br/) in São José do Rio Preto.
+
+I have a strong interest in entering the job market as a Backend Developer. Below, I’ve shared my GitHub profile, where I post my projects and studies, as well as my professional profile on [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-riguetto-5266b3351/). Feel free to contact me via email at gabrielriguetto3@gmail.com.
+
+---
+
 ## 🤖Tecnologias
 
 <img 
