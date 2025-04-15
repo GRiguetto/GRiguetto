@@ -1,12 +1,12 @@
 ## 🧑🏻‍💻Gabriel Fernande Riguetto
 
-Meu nome é Gabriel, resido no interior de São Paulo. Possuo formação em Tecnologia da Informação pelo [Senac](https://www.sp.senac.br/) e atualmente curso Informática para Negócios na [FATEC](https://www.fatecriopreto.edu.br/) de São José do Rio Preto.
+Meu nome é Gabriel, resido no interior de São Paulo. Possuo formação em Tecnologia da Informação pelo [Senac](https://www.sp.senac.br/) e atualmente curso Informática para Negócios na [Fatec](https://www.fatecriopreto.edu.br/) de São José do Rio Preto.
 
 Tenho grande interesse em ingressar no mercado de trabalho como Desenvolvedor Backend. A seguir, disponibilizo meu perfil do GitHub, onde compartilho meus projetos e estudos, bem como meu perfil profissional no [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-riguetto-5266b3351/) entre em contato pelo email gabrielriguetto3@gmail.com.
 
 ---
 
-My name is Gabriel, I live in the countryside of São Paulo. I have a degree in Information Technology from [Senac](https://www.sp.senac.br/) and I’m currently studying Business Information Technology at [FATEC](https://www.fatecriopreto.edu.br/) in São José do Rio Preto.
+My name is Gabriel, I live in the countryside of São Paulo. I have a degree in Information Technology from [Senac](https://www.sp.senac.br/) and I’m currently studying Business Information Technology at [Fatec](https://www.fatecriopreto.edu.br/) in São José do Rio Preto.
 
 I have a strong interest in entering the job market as a Backend Developer. Below, I’ve shared my GitHub profile, where I post my projects and studies, as well as my professional profile on [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-riguetto-5266b3351/). Feel free to contact me via email at gabrielriguetto3@gmail.com.
 
