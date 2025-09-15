@@ -1,4 +1,4 @@
-## 🧑🏻‍💻Gabriel Fernande Riguetto
+# 🧑🏻‍💻Gabriel Fernande Riguetto
 
 Meu nome é Gabriel, resido no interior de São Paulo. Possuo formação em Tecnologia da Informação pelo [Senac](https://www.sp.senac.br/) e atualmente curso Informática para Negócios na [Fatec](https://www.fatecriopreto.edu.br/) de São José do Rio Preto.
 
