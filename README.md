@@ -9,13 +9,13 @@
 
 Meu nome é Gabriel, resido no interior de São Paulo. Possuo formação em Tecnologia da Informação pelo **[Senac](https://www.sp.senac.br/)** e atualmente curso Informática para Negócios na **[Fatec](https://www.fatecriopreto.edu.br/)** de São José do Rio Preto.
 
-Tenho grande interesse em ingressar no mercado de trabalho como **Desenvolvedor Backend**. No meu GitHub, compartilho projetos e estudos que demonstram minha jornada e evolução na área de desenvolvimento.
+Tenho grande interesse em ingressar no mercado de trabalho como **Desenvolvedor Backend/Frontend**. No meu GitHub, compartilho projetos e estudos que demonstram minha jornada e evolução na área de desenvolvimento.
 
 <br>
 
 My name is Gabriel, I live in the countryside of São Paulo. I have a degree in Information Technology from **[Senac](https://www.sp.senac.br/)** and I’m currently studying Business Information Technology at **[Fatec](https://www.fatecriopreto.edu.br/)** in São José do Rio Preto.
 
-I have a strong interest in entering the job market as a **Backend Developer**. On my GitHub, I share projects and studies that showcase my journey and evolution in the development field.
+I have a strong interest in entering the job market as a **Backend/Frontend Developer**. On my GitHub, I share projects and studies that showcase my journey and evolution in the development field.
 
 <br>
 
