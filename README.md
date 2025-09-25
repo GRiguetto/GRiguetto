@@ -5,7 +5,7 @@
 
 <br>
 
-## 👨🏻‍💻 Sobre Mim
+# 👨🏻‍💻 Sobre Mim
 
 Meu nome é Gabriel, resido no interior de São Paulo. Possuo formação em Tecnologia da Informação pelo **[Senac](https://www.sp.senac.br/)** e atualmente curso Informática para Negócios na **[Fatec](https://www.fatecriopreto.edu.br/)** de São José do Rio Preto.
 
@@ -19,7 +19,7 @@ I have a strong interest in entering the job market as a **Backend/Frontend Deve
 
 <br>
 
-## 🔗 Conecte-se comigo
+# 🔗 Conecte-se comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-fernandes-riguetto-5266b3351/" target="_blank">
@@ -32,7 +32,7 @@ I have a strong interest in entering the job market as a **Backend/Frontend Deve
 
 <br>
 
-## 🛠️ Tecnologias e Ferramentas
+# 🛠️ Tecnologias e Ferramentas
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ I have a strong interest in entering the job market as a **Backend/Frontend Deve
   </tr>
 </table>
 
-### 📚 Atualmente Aprendendo
+## 📚 Atualmente Aprendendo
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" title="Angular"/>&nbsp;
@@ -86,7 +86,7 @@ I have a strong interest in entering the job market as a **Backend/Frontend Deve
 
 <br>
 
-## 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GRiguetto&show_icons=true&theme=tokyonight&include_all_commits=true"/>
