@@ -144,26 +144,6 @@ const gabriel = {
 
 </div>
 
----
-
-## 🎯 Objetivo Atual
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  🎓  Concluir Informática para Negócios na Fatec SJRP    ║
-║  💼  Ingressar no mercado como Desenvolvedor             ║
-║  📚  Dominar Angular + NestJS + Node.js                  ║
-║  🌱  Evoluir com Java e Python                           ║
-║  🚀  Construir projetos fullstack do zero                ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 🤝 Vamos nos Conectar?
 
 <div align="center">
