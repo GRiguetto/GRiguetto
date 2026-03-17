@@ -122,12 +122,6 @@ const gabriel = {
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GRiguetto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 🐍 Contribuições
