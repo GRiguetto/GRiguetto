@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=45A29E&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Fernandes+Riguetto!+%F0%9F%91%8B;Desenvolvedor+Backend+%2F+Frontend;Apaixonado+por+criar+solu%C3%A7%C3%B5es+escal%C3%A1veis!" alt="Typing SVG" />
   </a>
   <br>
-  <p><i>Um desenvolvedor em formação, apaixonado por criar soluções eficientes e impactantes.</i></p>
+  <p><i>Um desenvolvedor em formação.</i></p>
 
   <a href="https://www.linkedin.com/in/gabriel-fernandes-riguetto-5266b3351/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
