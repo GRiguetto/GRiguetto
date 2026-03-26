@@ -83,6 +83,13 @@
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GRiguetto&layout=compact&langs_count=8&theme=merko&hide_border=true"/>  
 </div>
 
+<p align="center">
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=GRiguetto&theme=merko&hide_border=true"/>
+
+</p>
+
+
 <br>
 
 <div align="center">
