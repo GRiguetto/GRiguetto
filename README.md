@@ -39,10 +39,9 @@ const gabriel = {
     "Tecnologia da Informação · Senac ✅",
     "Informática para Negócios · Fatec (em andamento) 📚"
   ],
-  foco:     ["Backend Development", "Frontend Development"],
+  foco:     ["Frontend Development"],
   aprendendo: ["TypeScript", "Angular", "NestJS", "Node.js", "Java", "Python"],
-  objetivo: "Ingressar no mercado como Desenvolvedor Full Stack 🚀",
-  curiosidade: "Acredito que código limpo é forma de arte 🎨"
+  objetivo: "Ingressar no mercado como Desenvolvedor Full Stack 🚀"
 };
 ```
 
