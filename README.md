@@ -41,7 +41,7 @@ const gabriel = {
   ],
   foco:     ["Frontend Development"],
   aprendendo: ["TypeScript", "Angular", "NestJS", "Node.js", "Java", "Python"],
-  objetivo: "Ingressar no mercado como Desenvolvedor Full Stack 🚀"
+  objetivo: "Ingressar no mercado como Desenvolvedor"
 };
 ```
 
