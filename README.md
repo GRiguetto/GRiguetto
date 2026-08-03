@@ -82,14 +82,6 @@ const gabriel = {
 
 ---
 
-## 📈 Gráfico de Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRiguetto&theme=merko&bg_color=0D1117&color=66FCF1&line=45A29E&point=FFFFFF&hide_border=true" width="95%"/>
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
