@@ -76,7 +76,7 @@ const gabriel = {
 
 <br/>
 
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=GRiguetto&theme=merko&hide_border=true&background=0D1117&stroke=45A29E&ring=66FCF1&fire=66FCF1&currStreakNum=FFFFFF&currStreakLabel=66FCF1&sideNums=FFFFFF&sideLabels=45A29E&dates=C5C6C7"/>
+
 
 </div>
 
