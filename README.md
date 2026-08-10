@@ -21,7 +21,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=GRiguetto&style=for-the-badge&color=45A29E&label=VISITANTES" alt="profile views"/>
 
 </div>
 
