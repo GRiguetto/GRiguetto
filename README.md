@@ -75,8 +75,8 @@ ERP web com arquitetura multipágina.
 
 ## <img src="assets/h-diario.svg" alt="Diário">
 
-- **Atualmente:** Secretaria Municipal de Saúde, São José do Rio Preto. Sistemas web, automação de dados e gestão das informações de pessoal de várias unidades de saúde.
-- **Em andamento:** estudos em programação, com Java, estruturas de dados e projetos próprios.
+- **Atualmente:** Focado no ecossistema Spring Boot e em acessibilidade no front-end.
+- **Em andamento:** Criação de uma aplicação educacional inclusiva que detecta notas e acordes em tempo real, proporcionando uma experiência de aprendizado musical autônoma e acessível.
 
 <img src="assets/divisor.svg" alt="" width="100%">
 
@@ -84,7 +84,7 @@ ERP web com arquitetura multipágina.
 
 Tem um projeto, uma vaga ou um bug que ninguém explica? Escreva.
 
-[![E-mail](https://img.shields.io/badge/E--mail-8c1d2b?style=flat-square&logo=gmail&logoColor=d8d0bf)](mailto:seu@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1a22?style=flat-square&logo=linkedin&logoColor=9a93c4)](https://linkedin.com/in/seu-usuario)
+[![E-mail](https://img.shields.io/badge/E--mail-8c1d2b?style=flat-square&logo=gmail&logoColor=d8d0bf)](mailto:gabrielriguetto3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1a22?style=flat-square&logo=linkedin&logoColor=9a93c4)](https://linkedin.com/in/gabriel-fernandes-riguetto-5266b3351)
 
 <p align="center"><img src="assets/rodape.svg" alt="Se você chegou até aqui, ele também chegou."></p>
