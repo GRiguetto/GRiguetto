@@ -17,6 +17,17 @@ Na faculdade, estudo Java, Estruturas de Dados, SQL Server e UX/UI. Meus projeto
 Clique para abrir cada arquivo.
 
 <details>
+<summary><b>ROOM 237</b> &nbsp;<sub>2026</sub></summary>
+
+<br>
+
+Um projeto web feito de fã para fã de cinema. Usando a API do The Movie Database (TMDB), você consegue buscar filmes específicos ou receber recomendações com base no que quer assistir.
+
+`HTML` `CSS` `JavaScript`
+
+</details>
+
+<details>
 <summary><b>Controle de Plantões</b> &nbsp;<sub>2026</sub></summary>
 
 <br>
