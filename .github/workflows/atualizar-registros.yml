@@ -1,0 +1,34 @@
+name: Atualizar registros
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+  push:
+    paths: ['config.py', 'gerar_assets.py', 'gerador/**', '.github/workflows/atualizar-registros.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: registros
+  cancel-in-progress: true
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install fonttools
+      - run: python3 gerar_assets.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets
+          git diff --staged --quiet || (git commit -m 'chore: atualizar registros' && git push)
