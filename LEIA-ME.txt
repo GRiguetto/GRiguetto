@@ -1,0 +1,44 @@
+README DE SILHUETAS — como instalar
+====================================
+
+O que é: o README do seu perfil do GitHub (costa noturna, farol, um tentáculo e quase
+nenhuma cor), com todas as imagens prontas e um Action que atualiza os números sozinho.
+
+INSTALAR (3 passos)
+-------------------
+1) Copie TUDO desta pasta para o repositório do seu perfil (o que tem o mesmo nome do seu
+   usuário do GitHub), substituindo o README.md e a pasta assets.
+   Atenção: a pasta .github fica oculta no Windows. Ative "Itens ocultos" no Explorador
+   de Arquivos, ou copie essa pasta separadamente.
+
+2) Faça commit e push. O Action "Atualizar registros" roda sozinho no primeiro push.
+   Se o painel de Registros ainda mostrar "dados de exemplo", abra a aba Actions,
+   escolha "Atualizar registros" e clique em Run workflow.
+   Se o passo de push do Action falhar: Settings > Actions > General > Workflow
+   permissions > marque "Read and write permissions" e rode de novo.
+
+3) Para mudar textos (nome, mensagens do farol, tecnologias, projetos, legendas):
+   - no seu computador: pip install fonttools (uma vez só) e depois python3 gerar_assets.py
+   - ou edite o config.py direto no github.com: o Action regenera as imagens.
+   O config.py é o único arquivo que você precisa editar. Os textos fixos (Sobre,
+   descrição dos projetos, contato) estão no README.md.
+
+CONFERIR
+--------
+- Em config.py, USUARIO deve ser o seu usuário do GitHub (o Action usa o dono do
+  repositório, então no GitHub isso já se resolve sozinho).
+- Os números contam só repositórios públicos. Para contar os privados também, crie um
+  token pessoal com o escopo "repo" e salve como secret chamado GH_TOKEN em
+  Settings > Secrets and variables > Actions.
+- Se der erro ao buscar os dados, o Action para e NÃO mexe no registros.svg (nunca troca
+  dado bom por dado de exemplo).
+
+MOVIMENTO REDUZIDO
+------------------
+As animações são em CSS e respeitam prefers-reduced-motion: quem pediu menos movimento
+no sistema vê a imagem parada (feixe a meio caminho, mensagens escondidas).
+
+FONTES (pasta fontes/)
+----------------------
+Pirata One, IM Fell English Italic e Courier Prime. Todas sob a SIL Open Font License.
+No SVG o texto vira contorno, então ninguém precisa ter as fontes instaladas.
