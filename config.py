@@ -3,7 +3,7 @@
 USUARIO = "GRiguetto"
 
 # Banner
-NOME = "Gabriel Riguetto"
+NOME = "Gabriel"
 PAPEL = "Desenvolvedor web, front-end em formação"
 
 # As três mensagens que o feixe do farol revela: (texto, x, y).
