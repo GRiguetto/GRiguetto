@@ -28,23 +28,23 @@ Um projeto web feito de fã para fã de cinema. Usando a API do The Movie Databa
 
 </details>
 
-<details>
+<!-- <details>
 <summary><img src="assets/projeto-2.svg" alt="Controle de Plantões, 2026" width="100%"></summary>
 
 Gestão de plantões de servidores com três visões (funcionário, gerente e administrador), controle de acesso por perfil, dashboards e relatórios.
 
 `PHP` `MySQL` `JavaScript`
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><img src="assets/projeto-3.svg" alt="Movimentação de Servidores, 2026" width="100%"></summary>
 
 Sistema web para solicitar transferências de servidores entre unidades de saúde.
 
 `HTML` `CSS` `JavaScript`
 
-</details>
+</details> -->
 
 <details>
 <summary><img src="assets/projeto-4.svg" alt="Afinador de Violão Acessível, 2026, em andamento" width="100%"></summary>
