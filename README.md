@@ -47,7 +47,7 @@ Sistema web para solicitar transferências de servidores entre unidades de saúd
 </details> -->
 
 <details>
-<summary><img src="assets/projeto-4.svg" alt="Afinador de Violão Acessível, 2026, em andamento" width="100%"></summary>
+<summary><img src="assets/projeto-4.svg" alt="Afinador WonderChord, 2026, em andamento" width="100%"></summary>
 
 Aplicação web feita para pessoas com deficiência visual parcial ou total afinarem o violão.
 
